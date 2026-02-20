@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import { MoonLoader } from "react-spinners";
 import CropBubble from "../pages/CropBubble";
 import ChatWidget from "../user/ChatWidget";
-import FloatingWidget from "../pages/FloatingWidget";
+// import FloatingWidget from "../pages/FloatingWidget";
 
 export default function Layout(){
      
